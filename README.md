@@ -11,8 +11,6 @@ Aplikasi sederhana yang menampilkan informasi cuaca menggunakan data dari API cu
 
 <img src="https://github.com/zikrizm/tugas_mp_uts_cuaca/raw/master/screenshots/home.jpeg" width="300" alt="Tampilan utama aplikasi">
 
-> 📌 Letakkan gambar di folder `screenshots/` dalam repositorimu dan pastikan nama file sesuai (`home.jpeg`)
-
 ## 🚀 Cara Menjalankan
 
 1. Clone repositori:
