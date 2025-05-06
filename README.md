@@ -10,10 +10,3 @@ Aplikasi sederhana yang menampilkan informasi cuaca menggunakan data dari API cu
 ## 🖼️ Tampilan Aplikasi
 
 <img src="https://github.com/zikrizm/tugas_mp_uts_cuaca/raw/master/screenshots/home.jpeg" width="300" alt="Tampilan utama aplikasi">
-
-## 🚀 Cara Menjalankan
-
-1. Clone repositori:
-   ```bash
-   git clone https://github.com/zikrizm/tugas_mp_uts_cuaca.git
-   cd tugas_mp_uts_cuaca
