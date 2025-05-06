@@ -1,16 +1,21 @@
-# weather
+# 🌤️ Tugas MP UTS - Aplikasi Cuaca
 
-A new Flutter project.
+Aplikasi sederhana yang menampilkan informasi cuaca menggunakan data dari API cuaca. Dibuat sebagai bagian dari Ujian Tengah Semester Mata Kuliah Mobile Programming.
 
-## Getting Started
+## 📱 Fitur
+- Menampilkan cuaca berdasarkan lokasi pengguna
+- Informasi suhu, kondisi langit, dan kelembapan
+- Antarmuka sederhana dan mudah digunakan
 
-This project is a starting point for a Flutter application.
+## 🖼️ Tampilan Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/zikrizm/tugas_mp_uts_cuaca/raw/master/screenshots/home.png" width="300" alt="Tampilan utama aplikasi">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> 📌 Letakkan gambar di folder `screenshots/` dalam repositorimu dan pastikan nama file sesuai (`home.png`)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Cara Menjalankan
+
+1. Clone repositori:
+   ```bash
+   git clone https://github.com/zikrizm/tugas_mp_uts_cuaca.git
+   cd tugas_mp_uts_cuaca
